@@ -1,2 +1,3 @@
 *.pth
-VOCdevkit/VOC2007
+VOCdevkit/VOC2007/*/
+!VOCdevkit/VOC2007
